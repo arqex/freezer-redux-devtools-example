@@ -29,3 +29,7 @@ node_modules
 
 #devtools
 src/freezer-redux-devtools
+
+divshot*
+.divshot-cache
+

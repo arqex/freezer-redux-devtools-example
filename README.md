@@ -2,6 +2,8 @@
 
 This is a demo on how to use [freezer](https://github.com/arqex/freezer) and [redux-devtools](https://github.com/gaearon/redux-devtools) together, thanks to [freezer-redux-devtools](https://github.com/arqex/freezer-redux-devtools).
 
+### [Check the live demo](http://freezer-redux-devtools.divshot.io/)
+
 How to use:
 -----------
 ```
